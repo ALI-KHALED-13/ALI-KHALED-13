@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ALI KHALED
 - 👀 I’m a web developmer
-- 🌱 I’m currently learning python with intention of automating boring things in the pharmaceutical field that I've graduated studying it
+- 🌱 I’m currently learning python with the intention of automating boring things in the pharmaceutical field that I've graduated studying it
 - 💞️ I’d like to collaborate on websites building and optimization, so feel free to contact me if you need a helping hand
 - 📫 you can reach me by sending an email to aliknake@gmail.com
 
